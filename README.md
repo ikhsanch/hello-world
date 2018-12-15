@@ -1,2 +1,4 @@
 # hello-world
-This repo are made to self taught the owner about how to use Github.
+branch
+
+this is the new branch that i just made, the purpose is to learn how to create new branches and make a commit on it.
